@@ -15,7 +15,12 @@ threat_phrases = [
     "I will explode a bomb",
     "taking hostages",
     "committing violence",
-    "terror attack"
+    "terror attack",
+    "Get on the ground right now ",
+    "This is a heist"
+    
+
+    
 ]
 
 # Encode the threat phrases
